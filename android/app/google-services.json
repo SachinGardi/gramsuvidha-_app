@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181171970967",
+    "project_id": "gramsuvidha-65b50",
+    "storage_bucket": "gramsuvidha-65b50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181171970967:android:2b20d066cd3089b486dad2",
+        "android_client_info": {
+          "package_name": "com.gramsuvidha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181171970967-tbqbkdoeia7ms4qd06meinlc5443p0g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaognbA7jdKOZIdpMgupAo_GXYujemNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181171970967-tbqbkdoeia7ms4qd06meinlc5443p0g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
